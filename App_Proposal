@@ -18,15 +18,48 @@ Audience-
 * Schools and colleges looking for community outreach programs.
 
 Situation-
-
+So much of the pollution and littering has resulted in environmental 
+degradation not only in most urban areas but also in a large number of rural areas. 
+Most clean-up initiatives are scattered, unorganized, and mostly uncoordinated.
+ CleanEarth provides an easier-to-use and supportive platform with which to
+effect collective action or promote responsible environmentally friendly 
+practices that benefit people in their communities.
 
 Objective-
+* Promote environmental awareness and responsibility among users.
+* Organize and monitor local clean-up events.
+* Enable users to directly contribute to reducing waste and improving their local environments.
+* Provide an opportunity for the users to share their clean-up experiences, monitor progress, and
+ celebrate collective success.
 
 Key SDG Targeted-
+SDG 13: Climate Action: CleanEarth directly contributes to mitigating climate change by 
+promoting the reduction of waste and pollution, helping improve urban areas and reducing the carbon footprint.
+
+SDG 15: Life on Land: The app will help preserve land ecosystems by encouraging users 
+to clean natural habitats and urban spaces, ensuring a healthier environment for both wildlife and communities.
 
 Key Features- 
+* Event Creation & Management: Users can create and manage clean-up events.
+* Volunteer Sign-Up: Participants can sign up for specific clean-up tasks based on their availability and interests.
+* Leaderboard: Encourages healthy competition by displaying top-performing volunteers or communities.
+* Resource Library: Provides tips on how to handle waste, organize events, and adopt sustainable practices.
 
 Technical Architecture-
 
-Research and Evidence- 
 
+
+
+Research and Evidence- 
+The app will be developed based on successful clean-up programs and environmental sustainability practices. The research behind the app will draw from:
+* United Nations Sustainable Development Goals (SDGs)
+  https://www.un.org/sustainabledevelopment/
+
+* Moving beyond Cleanup: Identifying the Crucibles of Environmental Gentrification  
+https://doi.org/10.1515/9780804782692-005
+
+* Transformative Effects of the Coastal Clean-Drive on Criminology Students Skills Development and Social Responsibility
+https://www.ejsit-journal.com/index.php/ejsit/article/view/365
+
+* What Drives Participation in State Voluntary Cleanup Programs? Evidence from Oregon 
+https://doi.org/10.3368/le.86.4.785 
